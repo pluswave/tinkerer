@@ -25,7 +25,7 @@ aside.sidebar.highlight { font-size: .8em; }
 
 footer { font-size: 0.8em; }
 
-code, kbd, pre, samp { font-family: {{ code_font }}; line-height: 1.4em; }
+code, kbd, pre, samp { font-family: {{ code_font }}; line-height: 22px; }
 
 @media only screen and (min-width: 900px) {
     body { font-size: 1.1em; }
